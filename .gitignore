@@ -1,0 +1,12 @@
+#Virtual Environment
+.venv/
+
+#Application Logs
+logs/*.log
+*.log
+
+# Environment Variables / Secrets
+.env
+
+# Test/Temp Files
+test.py
